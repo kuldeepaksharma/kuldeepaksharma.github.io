@@ -5,15 +5,15 @@
     descr: R
     color: teal
     xp: 7
--   id: c#
-    descr: c#    
+-   id: python
+    descr: python    
     xp: 3
--   id: angular
-    descr: angularjs    
+-   id: tableau
+    descr: tableau    
     xp: 8
 -   id: java
     descr: java    
-    xp: 5
+    xp: 2
 -   id: sass
     descr: sass    
     xp: 4
