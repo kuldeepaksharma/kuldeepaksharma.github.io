@@ -1,8 +1,8 @@
--   id: javascript
-    descr: javascript    
+-   id: machine learning
+    descr: machine learning    
     xp: 6
--   id: css
-    descr: css
+-   id: R
+    descr: R
     color: teal
     xp: 7
 -   id: c#
